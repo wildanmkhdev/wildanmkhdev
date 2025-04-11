@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 I'm an Information Systems student at **UINSU**
+- 🎓 I'm an Information Systems student at **State Islamic University of North Sumatra, Medan (UINSU)**
 - 💡 Passionate about learning **technology & programming**
 - 🔭 Exploring **React.js**, **Laravel**, and fullstack development
 - ⚙️ I enjoy building clean and functional websites
@@ -59,11 +59,24 @@
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/wildan-mukhaladun)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/yourusername)  
-[![Twitter/X](https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
-[![Quora](https://img.shields.io/badge/-Quora-B92B27?style=flat&logo=quora&logoColor=white)](https://www.quora.com/profile/yourusername)
+
+<p>
+  <a href="https://www.linkedin.com/in/wildan-mukhaladun">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/yourusername">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.quora.com/profile/yourusername">
+    <img src="https://img.shields.io/badge/-Quora-B92B27?style=flat&logo=quora&logoColor=white" />
+  </a>
+</p>
 
 ---
 
