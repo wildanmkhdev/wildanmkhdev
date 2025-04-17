@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://png.pngtree.com/png-clipart/20200701/original/pngtree-children-s-software-programming-png-image_5401261.jpg" width="100" style="border-radius: 50%" />
-</p>
 
 <h1 align="center">Hi, I'm Wildan Mukhaladun</h1>
 <p align="center">💻 Web Developer | Information Systems Student | Tech Enthusiast</p>
