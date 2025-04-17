@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://png.pngtree.com/png-clipart/20210311/original/pngtree-user-avatar-png-image_6017430.png" alt="Wildan Mukhaladun" width="150" style="border-radius: 50%;" />
+  <img src="https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png" alt="Wildan Mukhaladun" width="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Wildan Mukhaladun</h1>
