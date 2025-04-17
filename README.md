@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/59/8e/c4/598ec42e15c85716c6954c26840d4f4b.jpg" width="120" style="border-radius: 50%" />
+  <img src="https://i.pinimg.com/736x/39/b8/80/39b880fff49f6ada33e058efad96cee3.jpg" width="100" style="border-radius: 50%" />
 </p>
 
 <h1 align="center">Hi, I'm Wildan Mukhaladun</h1>
