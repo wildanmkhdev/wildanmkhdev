@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://png.pngtree.com/png-clipart/20210311/original/pngtree-user-avatar-png-image_6017430.png" alt="Wildan Mukhaladun" width="150" style="border-radius: 50%;" />
+</p>
 
 <h1 align="center">Hi, I'm Wildan Mukhaladun</h1>
 <p align="center">💻 Web Developer | Information Systems Student | Tech Enthusiast</p>
