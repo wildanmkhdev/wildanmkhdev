@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/2b/f1/42/2bf1422598e3129ec9052c560640d366.jpg" width="100" style="border-radius: 50%" />
+  <img src="https://png.pngtree.com/png-clipart/20200701/original/pngtree-children-s-software-programming-png-image_5401261.jpg" width="100" style="border-radius: 50%" />
 </p>
 
 <h1 align="center">Hi, I'm Wildan Mukhaladun</h1>
