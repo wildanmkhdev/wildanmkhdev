@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5_knAuaAKgH035FNrXlSiHZ-ZH4JfEMImZQ&s" alt="Wildan Mukhaladun" width="150" style="border-radius: 50%;" />
+  <img src="https://storage.googleapis.com/tessss11/image%20(3).png" alt="Wildan Mukhaladun" width="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Wildan Mukhaladun</h1>
