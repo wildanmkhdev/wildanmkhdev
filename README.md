@@ -3,22 +3,22 @@
   <img src="https://storage.googleapis.com/tessss11/image%20(3).png" alt="Wildan Mukhaladun" width="200" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.3);" />
   
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Wildan+Mukhaladun+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=38&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+%3Cspan+style%3D'color%3A%23FFFFFF'%3EWildan+Mukhaladun%3C%2Fspan%3E+%F0%9F%91%8B;%3Cspan+style%3D'color%3A%2300D4FF'%3EFull+Stack%3C%2Fspan%3E+%3Cspan+style%3D'color%3A%23FFFFFF'%3EDeveloper%3C%2Fspan%3E+%F0%9F%92%BB;%3Cspan+style%3D'color%3A%2300D4FF'%3ETech%3C%2Fspan%3E+%3Cspan+style%3D'color%3A%23FFFFFF'%3EEnthusiast%3C%2Fspan%3E+%F0%9F%9A%80;%3Cspan+style%3D'color%3A%2300D4FF'%3EBuilding%3C%2Fspan%3E+%3Cspan+style%3D'color%3A%23FFFFFF'%3Ethe+Future%3C%2Fspan%3E+%F0%9F%8C%9F" alt="Typing SVG" />
   </h1>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Coding%20Dreams%20into%20Reality-00D4AA?style=for-the-badge&logo=statuspal&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF6B6B?style=for-the-badge&logo=stackshare&logoColor=white" />
-    <img src="https://img.shields.io/badge/Location-Medan%2C%20Indonesia-4ECDC4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Coding%20Dreams%20into%20Reality-00D4FF?style=for-the-badge&logo=statuspal&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FFFFFF?style=for-the-badge&logo=stackshare&logoColor=00D4FF" />
+    <img src="https://img.shields.io/badge/Location-Medan%2C%20Indonesia-00D4FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=wildanmkhdev&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/wildanmkhdev?label=Followers&style=for-the-badge&color=f59e0b&logo=github" alt="GitHub followers" />
-    <img src="https://img.shields.io/github/stars/wildanmkhdev?label=Stars&style=for-the-badge&color=10b981&logo=starship" alt="GitHub stars" />
+    <img src="https://komarev.com/ghpvc/?username=wildanmkhdev&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/wildanmkhdev?label=Followers&style=for-the-badge&color=FFFFFF&labelColor=00D4FF&logo=github" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/stars/wildanmkhdev?label=Stars&style=for-the-badge&color=00D4FF&logo=starship&logoColor=white" alt="GitHub stars" />
   </p>
   
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=14&duration=1&pause=99999&color=00D4AA&center=true&vCenter=true&width=1000&height=100&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%20%20%20%20%20%20%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%20%20%20%20%20%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%20%20%20%20%20%20%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%20%20%20%20%20%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88" alt="WILDAN ASCII" />
 
 </div>
 
@@ -130,13 +130,61 @@ const wildan = {
 
 ### 🌟 Project Showcase
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **[Bookers](https://wildanmkhdev.github.io/bookers/)** | 📚 Modern book listing application | HTML5, CSS3, JavaScript | ✅ Live |
-| **[Kalkulator2](https://wildanmkhdev.github.io/kalkulator2/)** | 🧮 Advanced web calculator | JavaScript, CSS Grid | ✅ Live |
-| **[Submission Dicoding](https://wildanmkhdev.github.io/Tugas-Submission-Dicoding/)** | 🎓 Front-end course submission | HTML, CSS, Responsive Design | ✅ Live |
-| **Portfolio Website** | 💼 Personal portfolio site | React, TailwindCSS, Framer Motion | 🚧 In Progress |
-| **E-Commerce Platform** | 🛒 Full-stack e-commerce | Laravel, React, MySQL | 📅 Planned |
+<div align="center">
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+
+<div align="center" style="flex: 1; min-width: 300px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);">
+  <h3 style="color: white; margin: 0 0 10px 0;">📚 Bookers</h3>
+  <p style="color: #e0e7ff; font-size: 14px; margin: 10px 0;">Modern book listing application with clean UI design</p>
+  <div style="margin: 15px 0;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  </div>
+  <a href="https://wildanmkhdev.github.io/bookers/" style="display: inline-block; background: #00D4FF; color: white; padding: 8px 20px; border-radius: 25px; text-decoration: none; font-weight: bold; margin-top: 10px;">🚀 Live Demo</a>
+</div>
+
+<div align="center" style="flex: 1; min-width: 300px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);">
+  <h3 style="color: white; margin: 0 0 10px 0;">🧮 Kalkulator2</h3>
+  <p style="color: #ffe0e6; font-size: 14px; margin: 10px 0;">Advanced web calculator with modern interface</p>
+  <div style="margin: 15px 0;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/CSS_Grid-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Responsive-38B2AC?style=flat-square&logo=html5&logoColor=white" />
+  </div>
+  <a href="https://wildanmkhdev.github.io/kalkulator2/" style="display: inline-block; background: #FFFFFF; color: #f5576c; padding: 8px 20px; border-radius: 25px; text-decoration: none; font-weight: bold; margin-top: 10px;">🚀 Live Demo</a>
+</div>
+
+</div>
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+
+<div align="center" style="flex: 1; min-width: 300px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);">
+  <h3 style="color: white; margin: 0 0 10px 0;">🎓 Submission Dicoding</h3>
+  <p style="color: #e0f8ff; font-size: 14px; margin: 10px 0;">Front-end course submission with responsive design</p>
+  <div style="margin: 15px 0;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Responsive-FF6B6B?style=flat-square&logo=css3&logoColor=white" />
+  </div>
+  <a href="https://wildanmkhdev.github.io/Tugas-Submission-Dicoding/" style="display: inline-block; background: #00D4FF; color: white; padding: 8px 20px; border-radius: 25px; text-decoration: none; font-weight: bold; margin-top: 10px;">🚀 Live Demo</a>
+</div>
+
+<div align="center" style="flex: 1; min-width: 300px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); border: 2px dashed #00D4FF;">
+  <h3 style="color: #333; margin: 0 0 10px 0;">💼 Portfolio Website</h3>
+  <p style="color: #666; font-size: 14px; margin: 10px 0;">Personal portfolio with modern animations</p>
+  <div style="margin: 15px 0;">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  </div>
+  <span style="display: inline-block; background: #FF6B6B; color: white; padding: 8px 20px; border-radius: 25px; font-weight: bold; margin-top: 10px;">🚧 In Progress</span>
+</div>
+
+</div>
+
+</div>
 
 ---
 
