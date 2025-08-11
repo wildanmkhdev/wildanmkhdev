@@ -127,7 +127,7 @@ const wildan = {
   </a>
   
 </div>
-
+<div align="center">
 ### 🌟 Project Showcase
 
 | Project | Description | Tech Stack | Status |
@@ -137,7 +137,7 @@ const wildan = {
 | **[Submission Dicoding](https://wildanmkhdev.github.io/Tugas-Submission-Dicoding/)** | 🎓 Front-end course submission | HTML, CSS, Responsive Design | ✅ Live |
 | **Portfolio Website** | 💼 Personal portfolio site | React, TailwindCSS, Framer Motion | 🚧 In Progress |
 | **E-Commerce Platform** | 🛒 Full-stack e-commerce | Laravel, React, MySQL | 📅 Planned |
-
+</div>
 ---
 
 <div align="center">
