@@ -64,7 +64,7 @@ const wildan = {
   
   ## 🛠️ Tech Arsenal
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,tailwind,bootstrap,mysql,git,github,vscode,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,tailwind,bootstrap,mysql,git,github,vscode,ts,postman" />
   
 </div>
 
