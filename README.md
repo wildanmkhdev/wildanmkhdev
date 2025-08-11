@@ -64,7 +64,7 @@ const wildan = {
   
   ## 🎨 Front-End
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,bootstrap,next" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,next" />
   
 </div>
 
