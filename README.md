@@ -122,41 +122,46 @@ const wildan = {
 </div>
 <br> 
 <div align="center">
-  
-## 🌟 Project Showcase  
+## 🌟 Project Showcase
 
-<a href="https://wildanmkhdev.github.io/bookers/">
-  <img src="https://img.shields.io/badge/📚 Bookers-Modern_Book_Listing-blue?style=for-the-badge" alt="Bookers" />
-</a>  
-HTML5 • CSS3 • JavaScript • ✅ Live  
+<div align="center">
 
----
-
-<a href="https://wildanmkhdev.github.io/kalkulator2/">
-  <img src="https://img.shields.io/badge/🧮 Kalkulator2-Advanced_Web_Calculator-green?style=for-the-badge" alt="Kalkulator2" />
-</a>  
-JavaScript • CSS Grid • ✅ Live  
+### 📚 [Bookers](https://wildanmkhdev.github.io/bookers/)
+Modern book listing application  
+<img src="https://img.shields.io/badge/HTML5-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/CSS3-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square" />
+<br>
+<a href="https://wildanmkhdev.github.io/bookers/"><img src="https://img.shields.io/badge/-Live%20Demo-green?style=for-the-badge" /></a>
+<a href="https://github.com/wildanmkhdev/bookers"><img src="https://img.shields.io/badge/-Source%20Code-lightgrey?style=for-the-badge" /></a>
 
 ---
 
-<a href="https://wildanmkhdev.github.io/Tugas-Submission-Dicoding/">
-  <img src="https://img.shields.io/badge/🎓 Submission_Dicoding-Front_End_Challenge-orange?style=for-the-badge" alt="Submission Dicoding" />
-</a>  
-HTML • CSS • Responsive Design • ✅ Live  
+### 🧮 [Kalkulator2](https://wildanmkhdev.github.io/kalkulator2/)
+Advanced web calculator  
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/CSS_Grid-blue?style=flat-square" />
+<br>
+<a href="https://wildanmkhdev.github.io/kalkulator2/"><img src="https://img.shields.io/badge/-Live%20Demo-green?style=for-the-badge" /></a>
+<a href="https://github.com/wildanmkhdev/kalkulator2"><img src="https://img.shields.io/badge/-Source%20Code-lightgrey?style=for-the-badge" /></a>
 
 ---
 
-💼 **Portfolio Website**  
-React • TailwindCSS • Framer Motion • 🚧 In Progress  
+### 🎓 [Submission Dicoding](https://wildanmkhdev.github.io/Tugas-Submission-Dicoding/)
+Front-end course submission  
+<img src="https://img.shields.io/badge/HTML-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/CSS-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Responsive_Design-teal?style=flat-square" />
+<br>
+<a href="https://wildanmkhdev.github.io/Tugas-Submission-Dicoding/"><img src="https://img.shields.io/badge/-Live%20Demo-green?style=for-the-badge" /></a>
 
-🛒 **E-Commerce Platform**  
-Laravel • React • MySQL • 📅 Planned  
+---
+
+💼 **Portfolio Website** – React • TailwindCSS • Framer Motion • 🚧 In Progress  
+🛒 **E-Commerce Platform** – Laravel • React • MySQL • 📅 Planned
 
 </div>
 
----
-
-<div align="center">
   
   ## 🏆 Achievements & Certifications
   
