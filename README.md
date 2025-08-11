@@ -66,6 +66,15 @@ const wildan = {
   
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,tailwind,bootstrap,mysql,git,github,vscode,ts,postman" />
   
+  
+</div>
+<div align="center">
+  
+  ## 🛠️ Front-End Tech
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,reactjs,tailwindcss,bootstrap," />
+  
+  
 </div>
 
 ### 🎯 Frontend Technologies
