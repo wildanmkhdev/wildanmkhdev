@@ -104,7 +104,7 @@ const wildan = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanmkhdev&layout=compact&theme=tokyonight"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildanmkhdev&theme=tokyonight" />
-  
+  <br> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wildanmkhdev&theme=tokyo-night&hide_border=true&area=true" />
   
 </div>
