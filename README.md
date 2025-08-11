@@ -121,61 +121,34 @@ const wildan = {
   
 </div>
 <br> 
-<div align="center">
 ## 🌟 Project Showcase
 
-## 🌟 Project Showcase
+### 📚 [Bookers](https://wildanmkhdev.github.io/bookers/)
+> Modern book listing application  
+**Tech Stack:** HTML5 • CSS3 • JavaScript  
+✅ **Status:** Live  
+🔗 [Live Demo](https://wildanmkhdev.github.io/bookers/) | [Source Code](https://github.com/wildanmkhdev/bookers)
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+---
 
-  <!-- Bookers -->
-  <div style="width: 300px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://via.placeholder.com/300x180.png?text=Bookers" alt="Bookers" width="100%">
-    <h3>📚 Bookers</h3>
-    <p>Modern book listing application</p>
-    <p>
-      <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square" />
-      <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square" />
-      <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square" />
-    </p>
-    <p>
-      <a href="https://wildanmkhdev.github.io/bookers/"><img src="https://img.shields.io/badge/-Live%20Demo-green?style=for-the-badge" /></a>
-      <a href="https://github.com/wildanmkhdev/bookers"><img src="https://img.shields.io/badge/-Source%20Code-lightgrey?style=for-the-badge" /></a>
-    </p>
-  </div>
+### 🧮 [Kalkulator2](https://wildanmkhdev.github.io/kalkulator2/)
+> Advanced web calculator  
+**Tech Stack:** JavaScript • CSS Grid  
+✅ **Status:** Live  
+🔗 [Live Demo](https://wildanmkhdev.github.io/kalkulator2/) | [Source Code](https://github.com/wildanmkhdev/kalkulator2)
 
-  <!-- Kalkulator2 -->
-  <div style="width: 300px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://via.placeholder.com/300x180.png?text=Kalkulator2" alt="Kalkulator2" width="100%">
-    <h3>🧮 Kalkulator2</h3>
-    <p>Advanced web calculator</p>
-    <p>
-      <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square" />
-      <img src="https://img.shields.io/badge/CSS_Grid-blue?style=flat-square" />
-    </p>
-    <p>
-      <a href="https://wildanmkhdev.github.io/kalkulator2/"><img src="https://img.shields.io/badge/-Live%20Demo-green?style=for-the-badge" /></a>
-      <a href="https://github.com/wildanmkhdev/kalkulator2"><img src="https://img.shields.io/badge/-Source%20Code-lightgrey?style=for-the-badge" /></a>
-    </p>
-  </div>
+---
 
-  <!-- Submission Dicoding -->
-  <div style="width: 300px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://via.placeholder.com/300x180.png?text=Submission+Dicoding" alt="Submission Dicoding" width="100%">
-    <h3>🎓 Submission Dicoding</h3>
-    <p>Front-end course submission</p>
-    <p>
-      <img src="https://img.shields.io/badge/HTML-orange?style=flat-square" />
-      <img src="https://img.shields.io/badge/CSS-blue?style=flat-square" />
-      <img src="https://img.shields.io/badge/Responsive_Design-teal?style=flat-square" />
-    </p>
-    <p>
-      <a href="https://wildanmkhdev.github.io/Tugas-Submission-Dicoding/"><img src="https://img.shields.io/badge/-Live%20Demo-green?style=for-the-badge" /></a>
-      <a href="https://github.com/wildanmkhdev/Tugas-Submission-Dicoding"><img src="https://img.shields.io/badge/-Source%20Code-lightgrey?style=for-the-badge" /></a>
-    </p>
-  </div>
+### 🎓 [Submission Dicoding](https://wildanmkhdev.github.io/Tugas-Submission-Dicoding/)
+> Front-end course submission  
+**Tech Stack:** HTML • CSS • Responsive Design  
+✅ **Status:** Live  
+🔗 [Live Demo](https://wildanmkhdev.github.io/Tugas-Submission-Dicoding/) | [Source Code](https://github.com/wildanmkhdev/Tugas-Submission-Dicoding)
 
-</div>
+---
+
+💼 **Portfolio Website** – React • TailwindCSS • Framer Motion – 🚧 In Progress  
+🛒 **E-Commerce Platform** – Laravel • React • MySQL – 📅 Planned
 
   
   ## 🏆 Achievements & Certifications
