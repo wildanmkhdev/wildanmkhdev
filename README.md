@@ -72,10 +72,9 @@ const wildan = {
   
   ## 🖥️ Back-End
   
-  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,supabase" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,supabase,firebase" />
   <br>
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-%236C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+  
   
 </div>
 
