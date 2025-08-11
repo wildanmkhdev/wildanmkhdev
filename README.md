@@ -122,16 +122,38 @@ const wildan = {
 </div>
 <br> 
 <div align="center">
-### 🌟 Project Showcase
+  
+## 🌟 Project Showcase  
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **[Bookers](https://wildanmkhdev.github.io/bookers/)** | 📚 Modern book listing application | HTML5, CSS3, JavaScript | ✅ Live |
-| **[Kalkulator2](https://wildanmkhdev.github.io/kalkulator2/)** | 🧮 Advanced web calculator | JavaScript, CSS Grid | ✅ Live |
-| **[Submission Dicoding](https://wildanmkhdev.github.io/Tugas-Submission-Dicoding/)** | 🎓 Front-end course submission | HTML, CSS, Responsive Design | ✅ Live |
-| **Portfolio Website** | 💼 Personal portfolio site | React, TailwindCSS, Framer Motion | 🚧 In Progress |
-| **E-Commerce Platform** | 🛒 Full-stack e-commerce | Laravel, React, MySQL | 📅 Planned |
+<a href="https://wildanmkhdev.github.io/bookers/">
+  <img src="https://img.shields.io/badge/📚 Bookers-Modern_Book_Listing-blue?style=for-the-badge" alt="Bookers" />
+</a>  
+HTML5 • CSS3 • JavaScript • ✅ Live  
+
+---
+
+<a href="https://wildanmkhdev.github.io/kalkulator2/">
+  <img src="https://img.shields.io/badge/🧮 Kalkulator2-Advanced_Web_Calculator-green?style=for-the-badge" alt="Kalkulator2" />
+</a>  
+JavaScript • CSS Grid • ✅ Live  
+
+---
+
+<a href="https://wildanmkhdev.github.io/Tugas-Submission-Dicoding/">
+  <img src="https://img.shields.io/badge/🎓 Submission_Dicoding-Front_End_Challenge-orange?style=for-the-badge" alt="Submission Dicoding" />
+</a>  
+HTML • CSS • Responsive Design • ✅ Live  
+
+---
+
+💼 **Portfolio Website**  
+React • TailwindCSS • Framer Motion • 🚧 In Progress  
+
+🛒 **E-Commerce Platform**  
+Laravel • React • MySQL • 📅 Planned  
+
 </div>
+
 ---
 
 <div align="center">
