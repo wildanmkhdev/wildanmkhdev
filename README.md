@@ -62,20 +62,31 @@ const wildan = {
 
 <div align="center">
   
-  ## 🛠️ Tech Arsenal
+  ## 🎨 Front-End
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,tailwind,bootstrap,mysql,git,github,vscode,ts,postman" />
-  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,bootstrap" />
   
 </div>
+
 <div align="center">
   
-  ## 🛠️ Front-End Tech
+  ## 🖥️ Back-End
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,reactjs,tailwindcss,bootstrap," />
-  
+  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,supabase" />
+  <br>
+  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-%236C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
   
 </div>
+
+<div align="center">
+  
+  ## 🛠️ Tools
+  
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  
+</div>
+
 
 ### 🎯 Frontend Technologies
 <p>
