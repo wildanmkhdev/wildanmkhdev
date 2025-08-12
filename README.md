@@ -189,6 +189,7 @@ const wildan = {
 ---
 
 <div align="center">
+<br>
   
   ## 💡 Daily Motivation
   
