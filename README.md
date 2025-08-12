@@ -199,8 +199,6 @@ const wildan = {
 
 ---
 
-
-
 ---
 
 <div align="center">
