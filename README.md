@@ -47,7 +47,7 @@ const wildan = {
         frontend: ["React", "Next.js", "TailwindCSS"],
         backend: ["Laravel", "PHP", "RESTful APIs"],
         database: ["MySQL", "PostgreSQL"],
-        tools: ["Git", "VS Code", "Docker"]
+        tools: ["Git", "VS Code"]
     },
     
     futureGoals: ["Master Web3 Technologies", "Build SaaS Products", "Contribute to Open Source"],
