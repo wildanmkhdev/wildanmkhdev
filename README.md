@@ -72,7 +72,7 @@ const wildan = {
   
   ## 🖥️ Back-End & Databases
   
-  <img src="https://skillicons.dev/icons?i=php,mysql,phpmyadmin,sql,laravel,supabase,firebase," />
+  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,supabase,firebase," />
   <br>
   
   
