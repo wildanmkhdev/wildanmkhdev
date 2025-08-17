@@ -72,7 +72,7 @@ const wildan = {
   
   ## 🖥️ Back-End & Databases
   
-  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,phpmyadmin,sql,laravel,supabase,firebase," />
   <br>
   
   
@@ -82,7 +82,7 @@ const wildan = {
   
   ## 🛠️ Tools
   
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vite,cursor" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vite" />
   
 </div>
 
