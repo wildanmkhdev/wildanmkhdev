@@ -62,9 +62,27 @@ const wildan = {
 
 <div align="center">
   
-  ## 🎨 Front-End
+  ## 🎨 Front-End Technologies
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,next" />
+  <!-- Animated skill icons dengan hover effect -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5" />
+    <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3" />
+    <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=react" width="50" alt="React" />
+    <img src="https://skillicons.dev/icons?i=next" width="50" alt="Next.js" />
+    <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap" />
+  </p>
+  
+  <!-- Alternative dengan GIF icons -->
+  <p>
+    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" alt="HTML5" />
+    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" alt="CSS3" />
+    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="JavaScript" />
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="React" />
+  </p>
   
 </div>
 
@@ -72,22 +90,37 @@ const wildan = {
   
   ## 🖥️ Back-End & Databases
   
-  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,supabase,firebase" />
-  <br>
-  
+  <!-- Animated backend skills -->
+  <p>
+    <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" alt="PHP" />
+    <img src="https://skillicons.dev/icons?i=laravel" width="50" alt="Laravel" />
+    <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL" />
+    <img src="https://skillicons.dev/icons?i=supabase" width="50" alt="Supabase" />
+    <img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase" />
+  </p>
   
 </div>
 
 <div align="center">
   
-  ## 🛠️ Tools
+  ## 🛠️ Development Tools
   
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vite,vercel" />
+  <!-- Animated tools dengan wave effect -->
+  <p>
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code" />
+    <img src="https://skillicons.dev/icons?i=postman" width="50" alt="Postman" />
+    <img src="https://skillicons.dev/icons?i=vite" width="50" alt="Vite" />
+    <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel" />
+  </p>
   
 </div>
 
-
 ---
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
@@ -120,7 +153,9 @@ const wildan = {
   </a>
   
 </div>
+
 <br> 
+
 ## 🌟 Project Showcase
 
 ### 📚 [Bookers](https://wildanmkhdev.github.io/bookers/)
@@ -150,6 +185,7 @@ const wildan = {
 💼 **Portfolio Website** – React • TailwindCSS • Framer Motion – 🚧 In Progress  
 🛒 **E-Commerce Platform** – Laravel • React • MySQL – 📅 Planned
 
+<div align="center">
   
   ## 🏆 Achievements & Certifications
   
@@ -160,6 +196,9 @@ const wildan = {
 </div>
 
 ---
+
+<!-- Animated wave divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
@@ -196,8 +235,6 @@ const wildan = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   
 </div>
-
----
 
 ---
 
