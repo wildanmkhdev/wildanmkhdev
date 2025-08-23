@@ -63,7 +63,7 @@ const wildan = {
   
   ## 🎨 Front-End
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,next,shadcnui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,next,materialui" />
   
 </div>
 <div align="center">
@@ -79,7 +79,7 @@ const wildan = {
   
   ## 🛠️ Tools
   
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vite,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,bash,postman,vscode,vite,vercel" />
   
 </div>
 
