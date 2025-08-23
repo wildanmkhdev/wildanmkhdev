@@ -59,155 +59,30 @@ const wildan = {
 ```
 
 ---
-
 <div align="center">
   
-  ## 🎨 Front-End Technologies
+  ## 🎨 Front-End
   
-  <!-- Opsi 1: GIF Icons dari GitHub -->
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
-    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="JavaScript" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50" height="50" alt="Bootstrap" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="Tailwind CSS" />
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="React" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" />
-  </p>
-  
-  <!-- Opsi 2: Skill Icons dengan animasi parameter -->
-  <p>
-    <img src="https://skillicons.dev/icons?i=html" width="50" style="animation: bounce 2s infinite;" />
-    <img src="https://skillicons.dev/icons?i=css" width="50" style="animation: pulse 2s infinite;" />
-    <img src="https://skillicons.dev/icons?i=js" width="50" style="animation: spin 3s linear infinite;" />
-    <img src="https://skillicons.dev/icons?i=ts" width="50" style="animation: bounce 2s infinite;" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="50" style="animation: pulse 2s infinite;" />
-    <img src="https://skillicons.dev/icons?i=tailwind" width="50" style="animation: spin 3s linear infinite;" />
-    <img src="https://skillicons.dev/icons?i=react" width="50" style="animation: bounce 2s infinite;" />
-    <img src="https://skillicons.dev/icons?i=next" width="50" style="animation: pulse 2s infinite;" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,next" />
   
 </div>
-
 <div align="center">
   
   ## 🖥️ Back-End & Databases
   
-  <!-- GIF dan Animated Icons -->
-  <p>
-    <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" alt="PHP" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="50" height="50" alt="Laravel" />
-    <img src="https://skillicons.dev/icons?i=supabase" width="50" style="animation: bounce 2s infinite;" />
-    <img src="https://skillicons.dev/icons?i=firebase" width="50" style="animation: pulse 2s infinite;" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,supabase,firebase" />
+  <br>
+  
   
 </div>
-
 <div align="center">
   
-  ## 🛠️ Development Tools
+  ## 🛠️ Tools
   
-  <!-- Semua Tools dengan Animasi GIF -->
-  <p>
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" alt="Git" />
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" alt="GitHub" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
-    <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" alt="Postman" />
-    <img src="https://skillicons.dev/icons?i=vite" width="50" style="animation: spin 3s linear infinite;" />
-    <img src="https://skillicons.dev/icons?i=vercel" width="50" style="animation: pulse 2s infinite;" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vite,vercel" />
   
 </div>
-
-<!-- CSS untuk animasi custom -->
-<style>
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    transform: translateY(0);
-  }
-  40% {
-    transform: translateY(-10px);
-  }
-  60% {
-    transform: translateY(-5px);
-  }
-}
-
-@keyframes pulse {
-  0% {
-    transform: scale(1);
-    opacity: 1;
-  }
-  50% {
-    transform: scale(1.1);
-    opacity: 0.8;
-  }
-  100% {
-    transform: scale(1);
-    opacity: 1;
-  }
-}
-
-@keyframes spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-</style>
-
----
-
-<!-- Alternative: Menggunakan README-typing-svg untuk efek ketik -->
-<div align="center">
-  
-  ## 🎯 Alternative Animated Version
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Front-End%3A+HTML+%7C+CSS+%7C+JavaScript+%7C+React;Back-End%3A+PHP+%7C+Laravel+%7C+MySQL;Tools%3A+Git+%7C+VS+Code+%7C+Postman" alt="Animated Skills" />
-  
-</div>
-
----
-
-<!-- Version dengan hover effects -->
-<div align="center">
-  
-  ## 🚀 Hover-Animated Skills
-  
-  <!-- Front-End dengan hover -->
-  <h3>🎨 Front-End</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html" width="60" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" style="transition: all 0.3s ease;" />
-    <img src="https://skillicons.dev/icons?i=css" width="60" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" style="transition: all 0.3s ease;" />
-    <img src="https://skillicons.dev/icons?i=js" width="60" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" style="transition: all 0.3s ease;" />
-    <img src="https://skillicons.dev/icons?i=react" width="60" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" style="transition: all 0.3s ease;" />
-  </p>
-  
-  <!-- Back-End dengan hover -->
-  <h3>🖥️ Back-End</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=php" width="60" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" style="transition: all 0.3s ease;" />
-    <img src="https://skillicons.dev/icons?i=laravel" width="60" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" style="transition: all 0.3s ease;" />
-    <img src="https://skillicons.dev/icons?i=mysql" width="60" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" style="transition: all 0.3s ease;" />
-  </p>
-  
-  <!-- Tools dengan hover -->
-  <h3>🛠️ Tools</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=git" width="60" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" style="transition: all 0.3s ease;" />
-    <img src="https://skillicons.dev/icons?i=github" width="60" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" style="transition: all 0.3s ease;" />
-    <img src="https://skillicons.dev/icons?i=vscode" width="60" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" style="transition: all 0.3s ease;" />
-    <img src="https://skillicons.dev/icons?i=postman" width="60" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" style="transition: all 0.3s ease;" />
-    <img src="https://skillicons.dev/icons?i=vite" width="60" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" style="transition: all 0.3s ease;" />
-    <img src="https://skillicons.dev/icons?i=vercel" width="60" onmouseover="this.style.transform='scale(1.2) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" style="transition: all 0.3s ease;" />
-  </p>
-  
-</div>
-
+ apakah kamu bisa membuat smeua gambar dlaam tools say aini bergerak sperti format gif
 ---
 
 <div align="center">
