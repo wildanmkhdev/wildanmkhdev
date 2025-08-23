@@ -82,7 +82,7 @@ const wildan = {
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vite,vercel" />
   
 </div>
- apakah kamu bisa membuat smeua gambar dlaam tools say aini bergerak sperti format gif
+
 ---
 
 <div align="center">
