@@ -79,7 +79,7 @@ const wildan = {
   
   ## 🛠️ Tools
   
-  <img src="https://skillicons.dev/icons?i=git,github,bash,postman,vscode,vite,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,bash,postman,prisma,vscode,vite,vercel" />
   
 </div>
 
