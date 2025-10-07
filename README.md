@@ -61,7 +61,7 @@ const wildan = {
 ---
 <div align="center">
   
-<h2 align="center">🎨 Front-End</h2>
+<h1 align="center">🎨 Front-End</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
@@ -75,7 +75,7 @@ const wildan = {
   <img src="https://cdn.simpleicons.org/shadcnui/000000" width="55" height="55" alt="Shadcn UI"/>
 </p>
 
-<h3 align="center">💻 Back-End & Databases</h3>
+<h1 align="center">💻 Back-End & Databases</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="55" height="55" alt="Laravel"/>
@@ -87,7 +87,7 @@ const wildan = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55" height="55" alt="Nginx"/>
 </p>
 
-<h2 align="center">🛠️ Tools</h2>
+<h1 align="center">🛠️ Tools</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
