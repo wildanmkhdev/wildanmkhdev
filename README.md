@@ -98,7 +98,7 @@ const wildan = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="55" height="55" alt="Vercel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="55" height="55" alt="npm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" width="55" height="55" alt="pnpm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" height="55" alt="bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-colored.svg" width="55" height="55" alt="bash"/>
   <img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" width="55" height="55" alt="phpMyAdmin"/>
 </p>
 
