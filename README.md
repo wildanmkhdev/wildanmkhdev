@@ -138,34 +138,24 @@ const wildan = {
   
 </div>
 <br> 
-## 🌟 Project Showcase
 
-### 📚 [Bookers](https://wildanmkhdev.github.io/bookers/)
-> Modern book listing application  
-**Tech Stack:** HTML5 • CSS3 • JavaScript  
-✅ **Status:** Live  
-🔗 [Live Demo](https://wildanmkhdev.github.io/bookers/) | [Source Code](https://github.com/wildanmkhdev/bookers)
+## 🎯 Featured Projects
 
----
+- **readdora** – E-book / online bookstore app (React / TS / Tailwind)  
+  🔗 [Live Demo](https://link-ke-deployment-readdora) | [Source Code](https://github.com/wildanmkhdev/readdora)  
 
-### 🧮 [Kalkulator2](https://wildanmkhdev.github.io/kalkulator2/)
-> Advanced web calculator  
-**Tech Stack:** JavaScript • CSS Grid  
-✅ **Status:** Live  
-🔗 [Live Demo](https://wildanmkhdev.github.io/kalkulator2/) | [Source Code](https://github.com/wildanmkhdev/kalkulator2)
+- **Ruangin-FE** – Front-end untuk aplikasi “Ruangin” (React / TS)  
+  🔗 [Source Code](https://github.com/wildanmkhdev/Ruangin-FE)  
 
----
+- **Kosanly** – Aplikasi manajemen kos (PHP / Laravel)  
+  🔗 [Source Code](https://github.com/wildanmkhdev/Kosanly)  
 
-### 🎓 [Submission Dicoding](https://wildanmkhdev.github.io/Tugas-Submission-Dicoding/)
-> Front-end course submission  
-**Tech Stack:** HTML • CSS • Responsive Design  
-✅ **Status:** Live  
-🔗 [Live Demo](https://wildanmkhdev.github.io/Tugas-Submission-Dicoding/) | [Source Code](https://github.com/wildanmkhdev/Tugas-Submission-Dicoding)
+- **mini-ecommerce** – Mini e-commerce (TypeScript)  
+  🔗 [Source Code](https://github.com/wildanmkhdev/mini-ecommerce)  
 
----
+- **blog-laravel** – Blog sederhana dengan Laravel (Blade)  
+  🔗 [Source Code](https://github.com/wildanmkhdev/blog-laravel)  
 
-💼 **Portfolio Website** – React • TailwindCSS • Framer Motion – 🚧 In Progress  
-🛒 **E-Commerce Platform** – Laravel • React • MySQL – 📅 Planned
 
   
   ## 🏆 Achievements & Certifications
