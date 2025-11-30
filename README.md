@@ -128,16 +128,52 @@ const wildan = {
 </div>
 
 <div align="center">
-  
-  <a href="https://wildanmkhdev.github.io/bookers/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wildanmkhdev&repo=bookers&theme=tokyonight" />
-  </a>
-  <a href="https://wildanmkhdev.github.io/kalkulator2/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wildanmkhdev&repo=kalkulator2&theme=tokyonight" />
-  </a>
-  
+
+## ⭐ Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/wildanmkhdev/readdora">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wildanmkhdev&repo=readdora&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/wildanmkhdev/Ruangin-FE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wildanmkhdev&repo=Ruangin-FE&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/wildanmkhdev/mini-ecommerce">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wildanmkhdev&repo=mini-ecommerce&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/wildanmkhdev/bookers">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wildanmkhdev&repo=bookers&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/wildanmkhdev/kalkulator2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wildanmkhdev&repo=kalkulator2&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/wildanmkhdev/blog-laravel">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wildanmkhdev&repo=blog-laravel&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
-<br> 
+
 
 ## 🎯 Featured Projects
 
