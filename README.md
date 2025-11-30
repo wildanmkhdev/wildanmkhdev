@@ -130,20 +130,36 @@ const wildan = {
   ## 🎯 Featured Projects
   
 </div>
-- **readdora** – E-book / online bookstore app (React / TS / Tailwind)  
-  🔗 [Live Demo](https://link-ke-deployment-readdora) | [Source Code](https://github.com/wildanmkhdev/readdora)  
+### 🚀 Featured Projects
 
-- **Ruangin-FE** – Front-end untuk aplikasi “Ruangin” (React / TS)  
-  🔗 [Source Code](https://github.com/wildanmkhdev/Ruangin-FE)  
+#### 📚 Readdora — E-Book Marketplace  
+A modern digital bookstore app built with **React, TypeScript, and Tailwind CSS**.  
+🔗 Live Demo: _coming soon_ | [Source Code](https://github.com/wildanmkhdev/readdora)
 
-- **Kosanly** – Aplikasi manajemen kos (PHP / Laravel)  
-  🔗 [Source Code](https://github.com/wildanmkhdev/Kosanly)  
+---
 
-- **mini-ecommerce** – Mini e-commerce (TypeScript)  
-  🔗 [Source Code](https://github.com/wildanmkhdev/mini-ecommerce)  
+#### 🏢 Ruangin-FE — Workspace Reservation Platform  
+Frontend system for workspace booking, developed using **React + TypeScript**.  
+🔗 [Source Code](https://github.com/wildanmkhdev/Ruangin-FE)
 
-- **blog-laravel** – Blog sederhana dengan Laravel (Blade)  
-  🔗 [Source Code](https://github.com/wildanmkhdev/blog-laravel)  
+---
+
+#### 🏠 Kosanly — Boarding House Management System  
+A management app for kost owners, built with **Laravel + Blade UI**.  
+🔗 [Source Code](https://github.com/wildanmkhdev/Kosanly)
+
+---
+
+#### 🛍️ Mini-Ecommerce  
+A lightweight e-commerce project implementing product display and cart logic using **TypeScript**.  
+🔗 [Source Code](https://github.com/wildanmkhdev/mini-ecommerce)
+
+---
+
+#### ✍️ Blog Laravel  
+Simple blog platform featuring CRUD posts, authentication, and Blade templates.  
+Built using **Laravel Framework**.  
+🔗 [Source Code](https://github.com/wildanmkhdev/blog-laravel)
 
 
   
