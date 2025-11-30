@@ -121,56 +121,15 @@ const wildan = {
 
 ---
 
+
+
+
+
 <div align="center">
   
   ## 🎯 Featured Projects
   
 </div>
-
-<div align="center">
-<div align="center">
-
-## ⭐ Featured Projects
-
-</div>
-
-<div align="center">
-  
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-
-  <a href="https://github.com/wildanmkhdev/readdora" style="text-decoration: none;">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=wildanmkhdev&repo=readdora&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/wildanmkhdev/Ruangin-FE" style="text-decoration: none;">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=wildanmkhdev&repo=Ruangin-FE&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/wildanmkhdev/mini-ecommerce" style="text-decoration: none;">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=wildanmkhdev&repo=mini-ecommerce&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/wildanmkhdev/bookers" style="text-decoration: none;">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=wildanmkhdev&repo=bookers&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/wildanmkhdev/kalkulator2" style="text-decoration: none;">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=wildanmkhdev&repo=kalkulator2&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/wildanmkhdev/blog-laravel" style="text-decoration: none;">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=wildanmkhdev&repo=blog-laravel&theme=tokyonight" />
-  </a>
-
-</div>
-
-</div>
-
-
-</div>
-
-## 🎯 Featured Projects
-
 - **readdora** – E-book / online bookstore app (React / TS / Tailwind)  
   🔗 [Live Demo](https://link-ke-deployment-readdora) | [Source Code](https://github.com/wildanmkhdev/readdora)  
 
