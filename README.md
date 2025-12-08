@@ -1,4 +1,4 @@
-i<div align="center">
+<div align="center">
   
   <img src="https://storage.googleapis.com/tessss11/image%20(3).png" alt="Wildan Mukhaladun" width="200" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.3);" />
   
