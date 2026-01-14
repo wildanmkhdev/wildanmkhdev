@@ -130,7 +130,7 @@ const wildan = {
 
 <div align="center">
   
-  ## 🎯 Featured Projects
+  ## 🎯 Featured Projectsss
   
 </div>
 ### 🚀 Featured Projects
