@@ -92,7 +92,7 @@ const wildan = {
   
 </p>
 
-<h2 align="center">🛠️ Toolsss</h2>
+<h2 align="center">🛠️ Tool</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="55" height="55" alt="GitHub"/>
