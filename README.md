@@ -75,7 +75,7 @@ const wildan = {
   <img src="https://cdn.simpleicons.org/shadcnui/000000" width="55" height="55" alt="Shadcn UI"/>
 </p>
 
-<h2 align="center">💻 Back-End & Databases</h2>
+<h2 align="center">💻 Back-End & Databas</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" alt="PHP"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="55" height="55"/>
