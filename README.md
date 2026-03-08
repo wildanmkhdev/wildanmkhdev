@@ -1,170 +1,180 @@
-<div align="center">
-  
-  <img src="https://storage.googleapis.com/tessss11/image%20(3).png" alt="Wildan Mukhaladun" width="200" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.3);" />
-  
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Wildan+Mukhaladun+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
-  </h1>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Coding%20Dreams%20into%20Reality-00D4AA?style=for-the-badge&logo=statuspal&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF6B6B?style=for-the-badge&logo=stackshare&logoColor=white" />
-    <img src="https://img.shields.io/badge/Location-Medan%2C%20Indonesia-4ECDC4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  </p>
+---
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=wildanmkhdev&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/wildanmkhdev?label=Followers&style=for-the-badge&color=f59e0b&logo=github" alt="GitHub followers" />
-    <img src="https://img.shields.io/github/stars/wildanmkhdev?label=Stars&style=for-the-badge&color=10b981&logo=starship" alt="GitHub stars" />
-  </p>
-  
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div align="center">
+
+## 🛠️ Tech Stack & Skills
+
+</div>
+
+<div align="center">
+
+### 🎨 Front-End
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" height="50" alt="Material UI" title="Material UI"/>
+  <img src="https://cdn.simpleicons.org/shadcnui/000000" width="50" height="50" alt="Shadcn UI" title="Shadcn UI"/>
+</p>
+
+### 💻 Back-End & Database
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel" title="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="50" height="50" alt="Prisma" title="Prisma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" height="50" alt="Supabase" title="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="50" height="50" alt="Firebase" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50" alt="Nginx" title="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ngrok/ngrok-original.svg" width="50" height="50" alt="Ngrok" title="Ngrok"/>
+</p>
+
+### 🤖 Data Science & Machine Learning
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" title="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-Learn" title="Scikit-Learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter" title="Jupyter Notebook"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50" height="50" alt="Anaconda" title="Anaconda"/>
+</p>
+
+### 🛠️ Tools & DevOps
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" height="50" alt="GitLab" title="GitLab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" alt="Postman" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" height="50" alt="Vite" title="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50" height="50" alt="Vercel" title="Vercel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" alt="npm" title="npm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" width="50" height="50" alt="pnpm" title="pnpm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="50" height="50" alt="Bun" title="Bun"/>
+  <img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" width="50" height="50" alt="phpMyAdmin" title="phpMyAdmin"/>
+</p>
 
 </div>
 
 ---
-
-<div align="center">
-  
-  ## 🚀 About The Developer
-  
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```javascript
-const wildan = {
-    name: "Wildan Mukhaladun",
-    role: "Full Stack Developer",
-    education: "Information Systems @ UINSU Medan",
-    location: "Medan, North Sumatra, Indonesia",
-    
-    currentlyLearning: ["React.js", "Laravel", "Modern Web Frameworks"],
-    interests: ["Web Development", "AI Integration", "Clean Architecture"],
-    motto: "Code with passion, build with purpose",
-    
-    workingOn: {
-        frontend: ["React", "Next.js", "TailwindCSS"],
-        backend: ["Laravel", "PHP", "RESTful APIs"],
-        database: ["MySQL", "PostgreSQL"],
-        tools: ["Git", "VS Code"]
-    },
-    
-    futureGoals: ["Master Web3 Technologies", "Build SaaS Products", "Contribute to Open Source"],
-    
-    getInTouch: function() {
-        return "Let's build something amazing together! 🚀";
-    }
-};
-```
-
----
-<div align="center">
-  
-<h2 align="center">🎨 Front-End</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="55" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="55" height="55" alt="Material UI"/>
-  <img src="https://cdn.simpleicons.org/shadcnui/000000" width="55" height="55" alt="Shadcn UI"/>
-</p>
-
-<h2 align="center">💻 Back-End & Databas</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" alt="PHP"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="55" height="55"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="55" height="55" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="55" height="55" alt="Supabase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="55" height="55" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55" height="55" alt="Nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ngrok/ngrok-original.svg" width="55" height="55" alt="Ngrok"/>
-  
-</p>
-
-<h2 align="center">🛠️ Tool</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="55" height="55" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" height="55" alt="GitLab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" height="55" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="55" height="55" alt="Vite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="55" height="55" alt="Vercel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="55" height="55" alt="npm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" width="55" height="55" alt="pnpm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" height="55" alt="bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="55" height="55" alt="bash"/>
-  <img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" width="55" height="55" alt="phpMyAdmin"/>
-</p>
 
 <div align="center">
   
   ## 📈 GitHub Analytics
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wildanmkhdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanmkhdev&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wildanmkhdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanmkhdev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildanmkhdev&theme=tokyonight" />
-  <br> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wildanmkhdev&theme=tokyo-night&hide_border=true&area=true" />
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildanmkhdev&theme=tokyonight&hide_border=true&border_radius=10" />
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wildanmkhdev&theme=tokyo-night&hide_border=true&area=true&radius=10" />
   
 </div>
 
 ---
-
-
-
-
 
 <div align="center">
   
   ## 🎯 Featured Projects
   
 </div>
-### 🚀 Featured Projects
 
-#### 📚 Readdora — E-Book Marketplace  
-A modern digital bookstore app built with **React, TypeScript, and Tailwind CSS**.  
-🔗 Live Demo: _coming soon_ | [Source Code](https://github.com/wildanmkhdev/readdora)
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">📚 Readdora</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      </p>
+      <p>E-Book Marketplace — A modern digital bookstore app built with React, TypeScript & Tailwind CSS.</p>
+      <p align="center">
+        <a href="https://github.com/wildanmkhdev/readdora">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏢 Ruangin-FE</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+      <p>Workspace Reservation Platform — Frontend system for workspace booking built with React + TypeScript.</p>
+      <p align="center">
+        <a href="https://github.com/wildanmkhdev/Ruangin-FE">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏠 Kosanly</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      </p>
+      <p>Boarding House Management System — Full-featured kost management app with Laravel + Blade UI.</p>
+      <p align="center">
+        <a href="https://github.com/wildanmkhdev/Kosanly">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛍️ Mini-Ecommerce</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+      <p>Lightweight e-commerce project implementing product display and cart logic using TypeScript.</p>
+      <p align="center">
+        <a href="https://github.com/wildanmkhdev/mini-ecommerce">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>✍️ Blog Laravel</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      </p>
+      <p>Simple blog platform featuring CRUD posts, authentication, and Blade templates built using Laravel.</p>
+      <p align="center">
+        <a href="https://github.com/wildanmkhdev/blog-laravel">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-#### 🏢 Ruangin-FE — Workspace Reservation Platform  
-Frontend system for workspace booking, developed using **React + TypeScript**.  
-🔗 [Source Code](https://github.com/wildanmkhdev/Ruangin-FE)
-
----
-
-#### 🏠 Kosanly — Boarding House Management System  
-A management app for kost owners, built with **Laravel + Blade UI**.  
-🔗 [Source Code](https://github.com/wildanmkhdev/Kosanly)
-
----
-
-#### 🛍️ Mini-Ecommerce  
-A lightweight e-commerce project implementing product display and cart logic using **TypeScript**.  
-🔗 [Source Code](https://github.com/wildanmkhdev/mini-ecommerce)
-
----
-
-#### ✍️ Blog Laravel  
-Simple blog platform featuring CRUD posts, authentication, and Blade templates.  
-Built using **Laravel Framework**.  
-🔗 [Source Code](https://github.com/wildanmkhdev/blog-laravel)
-
-
+<div align="center">
   
   ## 🏆 Achievements & Certifications
   
@@ -204,7 +214,6 @@ Built using **Laravel Framework**.
 ---
 
 <div align="center">
-<br>
   
   ## 💡 Daily Motivation
   
@@ -214,21 +223,19 @@ Built using **Laravel Framework**.
 
 ---
 
----
-
 <div align="center">
   
   ### 🚀 Ready to Collaborate
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   
-  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
+  **"Code is like humor. When you have to explain it, it's bad."** — Cory House
   
   <p>
     <strong>💼 Available for freelance projects and collaborations</strong><br>
     <strong>🎯 Let's build something extraordinary together!</strong>
   </p>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" />
   
 </div>
