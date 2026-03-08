@@ -116,9 +116,11 @@ const wildan = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wildanmkhdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanmkhdev&layout=compact&theme=tokyonight"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildanmkhdev&theme=tokyonight" />
-  <br> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wildanmkhdev&theme=tokyo-night&hide_border=true&area=true" />
+ <!-- GANTI INI (broken): -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wildanmkhdev&theme=tokyonight" />
+
+<!-- PAKAI INI (masih aktif): -->
+<img src="https://streak-stats.demolab.com/?user=wildanmkhdev&theme=tokyonight&hide_border=true" />
   
 </div>
 
