@@ -112,15 +112,21 @@ const wildan = {
 <div align="center">
   
   ## 📈 GitHub Analytics
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wildanmkhdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanmkhdev&layout=compact&theme=tokyonight"/>
-  
- <!-- GANTI INI (broken): -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wildanmkhdev&theme=tokyonight" />
 
-<!-- PAKAI INI (masih aktif): -->
-<img src="https://streak-stats.demolab.com/?user=wildanmkhdev&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-wildanmkhdev.vercel.app/api?username=wildanmkhdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats-wildanmkhdev.vercel.app/api/top-langs/?username=wildanmkhdev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com/?user=wildanmkhdev&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wildanmkhdev&theme=tokyo-night&hide_border=true&area=true&radius=10" />
+
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=wildanmkhdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
   
 </div>
 
