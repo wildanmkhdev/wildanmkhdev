@@ -111,7 +111,7 @@ const wildan = {
 
 <div align="center">
   
-  ## 📈 GitHub Analytics
+  ## 📈 GitHub Analyticssss
 
   <img height="180em" src="https://github-readme-stats-wildanmkhdev.vercel.app/api?username=wildanmkhdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats-wildanmkhdev.vercel.app/api/top-langs/?username=wildanmkhdev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
