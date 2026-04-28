@@ -61,7 +61,7 @@ const wildan = {
 ---
 <div align="center">
   
-<h2 align="center">🎨 Front-Ends</h2>
+<h2 align="center">🎨 Front-Endss</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
