@@ -26,7 +26,7 @@
 
 <div align="center">
   
-  ## 🚀 About The Developer
+  ## 🚀 About The Developerss
   
 </div>
 
