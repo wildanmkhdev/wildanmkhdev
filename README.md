@@ -174,7 +174,7 @@ Built using **Laravel Framework**.
 
 
   
-  ## 🏆 Achievements & Certifications
+  ## 🏆 Achievements & Certificationsss
   
   <img src="https://img.shields.io/badge/Dicoding-Front--End_Web_Developer-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   <img src="https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
