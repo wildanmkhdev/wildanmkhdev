@@ -214,7 +214,7 @@ Built using **Laravel Framework**.
 <div align="center">
 <br>
   
-  ## 💡 Daily Motivation
+  ## 💡 Daily Motivationss
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   
