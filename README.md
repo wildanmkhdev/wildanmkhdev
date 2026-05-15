@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://storage.googleapis.com/tessss11/image%20(3).png" alt="Wildan Mukhaladun" width="200" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.3);" />
+  <img src="https://avatars.githubusercontent.com/u/138378284?v=4" alt="Wildan Mukhaladun" width="200" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.3);" />
   
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Wildan+Mukhaladun+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
