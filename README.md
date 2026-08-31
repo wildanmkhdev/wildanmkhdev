@@ -89,6 +89,8 @@ const wildan = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="55" height="55" alt="Firebase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55" height="55" alt="Nginx"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ngrok/ngrok-original.svg" width="55" height="55" alt="Ngrok"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="55" height="55" alt="Nestjs"/>
+  
   
 </p>
 
